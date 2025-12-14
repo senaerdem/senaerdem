@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java - Spring Boot
+🔭 I’m currently working on .NET
 
 
 # 💻 Tech Stack:
